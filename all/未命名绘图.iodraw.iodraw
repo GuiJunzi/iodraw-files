@@ -111,6 +111,9 @@
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-47" value="T t1 = new T();" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="90" y="570" width="50" height="5" as="geometry" />
         </mxCell>
+        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZMv2l5J0o_ZnHg6SBESl-47" target="ZMv2l5J0o_ZnHg6SBESl-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
