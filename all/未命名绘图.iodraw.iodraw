@@ -111,23 +111,13 @@
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-47" value="T t1 = new T();" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="90" y="570" width="50" height="5" as="geometry" />
         </mxCell>
-        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="572.5200000000001" as="sourcePoint" />
-            <mxPoint x="280" y="420" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="230" y="573" />
-              <mxPoint x="230" y="420" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-50" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="540" as="sourcePoint" />
-            <mxPoint x="320" y="490" as="targetPoint" />
+            <mxPoint x="140" y="575" as="sourcePoint" />
+            <mxPoint x="190" y="525" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="540" />
-              <mxPoint x="270" y="490" />
+              <mxPoint x="190" y="575" />
+              <mxPoint x="140" y="525" />
             </Array>
           </mxGeometry>
         </mxCell>
