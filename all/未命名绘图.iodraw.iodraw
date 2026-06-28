@@ -100,7 +100,7 @@
           <mxGeometry x="90" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="90" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="480" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-45" value="方法区" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="232" y="510" width="40" height="20" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry x="90" y="495" width="30" height="5" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-56" value="test(4-1)" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="90" y="510" width="30" height="5" as="geometry" />
+          <mxGeometry x="90" y="505" width="30" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
