@@ -282,8 +282,8 @@
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-95" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="100" y="760" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-96" value="factorial" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="100" y="765" width="30" height="5" as="geometry" />
+        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-96" value="factorial栈" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="100" y="765" width="40" height="5" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-97" value="n = 3" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="100" y="775" width="30" height="5" as="geometry" />
@@ -303,7 +303,7 @@
           <mxGeometry x="100" y="720" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-101" value="factorial栈" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="100" y="725" width="30" height="5" as="geometry" />
+          <mxGeometry x="100" y="725" width="40" height="5" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-102" value="n = 2" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="100" y="734" width="30" height="5" as="geometry" />
