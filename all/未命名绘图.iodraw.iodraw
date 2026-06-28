@@ -48,8 +48,13 @@
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-14" value="getSum栈(独立空间)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="90" y="190" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMv2l5J0o_ZnHg6SBESl-15" target="ZMv2l5J0o_ZnHg6SBESl-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#3333FF;" edge="1" parent="1" source="ZMv2l5J0o_ZnHg6SBESl-15" target="ZMv2l5J0o_ZnHg6SBESl-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="170" />
+              <mxPoint x="150" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-15" value="int returnRes = p1.getSum(20, 30);" style="text;whiteSpace=wrap;fontSize=7;verticalAlign=middle;align=left;" vertex="1" parent="1">
           <mxGeometry x="90" y="155" width="110" height="10" as="geometry" />
