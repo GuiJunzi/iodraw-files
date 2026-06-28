@@ -34,7 +34,7 @@
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-11" value="常量池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="320" y="230" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-12" value="main栈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
