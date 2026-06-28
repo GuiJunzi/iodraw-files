@@ -96,11 +96,8 @@
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-29" value="&lt;font&gt;加载类信息&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;1.属性信息&lt;/div&gt;&lt;div&gt;2.方法信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="250" y="520" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-30" value="0x0010" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-30" value="对象" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="250" y="410" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-31" value="0x0011" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="255" y="440" width="50" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-33" value="常量池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="320" y="520" width="60" height="80" as="geometry" />
