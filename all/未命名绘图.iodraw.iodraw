@@ -285,7 +285,7 @@
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-96" value="factorial栈" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="100" y="765" width="40" height="5" as="geometry" />
         </mxCell>
-        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-97" value="n = 3" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
+        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-97" value="n = 2" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="100" y="775" width="30" height="5" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeColor=#3333FF;" edge="1" parent="1" source="ZMv2l5J0o_ZnHg6SBESl-99" target="ZMv2l5J0o_ZnHg6SBESl-101">
