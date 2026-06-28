@@ -114,14 +114,6 @@
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-35" value="Person p1 = new Person();" style="text;whiteSpace=wrap;align=right;verticalAlign=middle;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="90" y="430" width="100" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#66FF66;strokeColor=#3333FF;" edge="1" parent="1" source="ZMv2l5J0o_ZnHg6SBESl-35" target="ZMv2l5J0o_ZnHg6SBESl-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="200" y="435" />
-              <mxPoint x="200" y="422" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-37" value="getSum栈(独立空间)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="90" y="480" width="120" height="70" as="geometry" />
         </mxCell>
@@ -144,16 +136,6 @@
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-42" value="res ---&gt;  30" style="text;whiteSpace=wrap;align=right;verticalAlign=middle;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="100" y="520" width="50" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#3333FF;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="147" y="535" as="sourcePoint" />
-            <mxPoint x="197" y="447.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="227" y="535" />
-              <mxPoint x="227" y="448" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-44" value="return res;" style="text;whiteSpace=wrap;align=right;verticalAlign=middle;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="100" y="530" width="50" height="10" as="geometry" />
