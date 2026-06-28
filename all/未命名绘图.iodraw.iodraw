@@ -91,10 +91,10 @@
           <mxGeometry x="232" y="510" width="228" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="400" width="228" height="100" as="geometry" />
+          <mxGeometry x="232" y="400" width="228" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-30" value="对象" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="250" y="410" width="60" height="80" as="geometry" />
+          <mxGeometry x="280" y="410" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-34" value="main栈" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="90" y="410" width="120" height="60" as="geometry" />
