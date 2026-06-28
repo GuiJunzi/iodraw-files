@@ -139,7 +139,7 @@
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-55" value="n = 3" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="90" y="500" width="30" height="5" as="geometry" />
         </mxCell>
-        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-56" value="t1.test(4)" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
+        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-56" value="test(4-1)" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="90" y="510" width="30" height="5" as="geometry" />
         </mxCell>
       </root>
