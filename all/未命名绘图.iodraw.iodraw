@@ -60,6 +60,9 @@
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-15" value="int returnRes = p1.getSum(20, 30);" style="text;whiteSpace=wrap;fontSize=7;verticalAlign=middle;align=left;" vertex="1" parent="1">
           <mxGeometry x="90" y="155" width="110" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-17" value="Person p1 = new Person();" style="text;whiteSpace=wrap;align=right;verticalAlign=middle;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="100" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
