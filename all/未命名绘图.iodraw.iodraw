@@ -109,7 +109,7 @@
           <mxGeometry x="232" y="400" width="18" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-47" value="T t1 = new T();" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="105" y="575" width="80" height="5" as="geometry" />
+          <mxGeometry x="90" y="570" width="80" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
