@@ -187,7 +187,7 @@
           <mxGeometry x="90" y="476" width="90" height="5" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-71" value="System.out.println(&quot;n=&quot; + n);" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="110" y="442" width="90" height="5" as="geometry" />
+          <mxGeometry x="90" y="536" width="90" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
