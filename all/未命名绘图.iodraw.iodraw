@@ -167,10 +167,10 @@
           <mxGeometry x="90" y="400" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-64" value="Test栈" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="90" y="385" width="30" height="5" as="geometry" />
+          <mxGeometry x="90" y="405" width="30" height="5" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-65" value="n = 2" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="90" y="395" width="30" height="5" as="geometry" />
+          <mxGeometry x="90" y="414" width="30" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
