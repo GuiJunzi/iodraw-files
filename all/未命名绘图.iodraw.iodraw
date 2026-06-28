@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="100" width="410" height="240" as="geometry" />
+          <mxGeometry x="70" y="100" width="400" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="110" width="150" height="220" as="geometry" />
+          <mxGeometry x="80" y="110" width="140" height="220" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="232" y="220" width="228" height="100" as="geometry" />
@@ -80,6 +80,9 @@
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-20" value="return res;" style="text;whiteSpace=wrap;align=right;verticalAlign=middle;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="100" y="240" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-24" value="//factorial 阶乘&#xa;public int factorial(int n) {&#xa;if (n == 1) {&#xa;return 1;&#xa;} else {&#xa;return factorial(n - 1) * n;&#xa;}&#xa;}&#xa;}" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="570" width="160" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
