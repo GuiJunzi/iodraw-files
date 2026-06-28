@@ -70,7 +70,14 @@
           <mxGeometry x="100" y="230" width="50" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZMv2l5J0o_ZnHg6SBESl-20" target="ZMv2l5J0o_ZnHg6SBESl-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="245" />
+              <mxPoint x="190" y="203" />
+              <mxPoint x="230" y="203" />
+              <mxPoint x="230" y="158" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-20" value="return res;" style="text;whiteSpace=wrap;align=right;verticalAlign=middle;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="100" y="240" width="50" height="10" as="geometry" />
