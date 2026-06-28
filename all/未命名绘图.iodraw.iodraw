@@ -16,8 +16,8 @@
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="232" y="110" width="228" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-5" value="Person p1 = new Person();" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="80" y="220" width="180" height="20" as="geometry" />
+        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-5" value="Person p1 = new Person();" style="text;whiteSpace=wrap;align=right;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
