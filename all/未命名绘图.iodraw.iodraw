@@ -126,7 +126,17 @@
           <mxGeometry x="90" y="580" width="30" height="5" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-52" value="Test栈" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="90" y="485" width="50" height="5" as="geometry" />
+          <mxGeometry x="90" y="485" width="30" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-53" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="550" as="sourcePoint" />
+            <mxPoint x="60" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="550" />
+              <mxPoint x="10" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
