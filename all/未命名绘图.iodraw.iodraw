@@ -123,7 +123,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ZMv2l5J0o_ZnHg6SBESl-51" target="ZMv2l5J0o_ZnHg6SBESl-52">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="582.5" />
+              <mxPoint x="60" y="486" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-51" value="t1.test(4)" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="90" y="580" width="30" height="5" as="geometry" />
