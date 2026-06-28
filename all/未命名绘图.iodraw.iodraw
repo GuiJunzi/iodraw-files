@@ -93,14 +93,8 @@
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="232" y="400" width="228" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-29" value="&lt;font&gt;加载类信息&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;1.属性信息&lt;/div&gt;&lt;div&gt;2.方法信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="250" y="520" width="60" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-30" value="对象" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="250" y="410" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-33" value="常量池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="320" y="520" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-34" value="main栈" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="90" y="410" width="120" height="60" as="geometry" />
@@ -125,6 +119,9 @@
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-44" value="return res;" style="text;whiteSpace=wrap;align=right;verticalAlign=middle;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="100" y="530" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-45" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
