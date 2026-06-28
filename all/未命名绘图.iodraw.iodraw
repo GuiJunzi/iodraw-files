@@ -106,7 +106,7 @@
           <mxGeometry x="232" y="510" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-46" value="堆" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="232" y="400" width="18" height="20" as="geometry" />
+          <mxGeometry x="232" y="390" width="18" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-47" value="T t1 = new T();" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="90" y="580" width="50" height="5" as="geometry" />
@@ -206,7 +206,7 @@
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-71" value="System.out.println(&quot;n=&quot; + n);" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="90" y="536" width="90" height="5" as="geometry" />
         </mxCell>
-        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-77" value="堆" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=0;" vertex="1" parent="1">
+        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-77" value="栈" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="82" y="380" width="18" height="20" as="geometry" />
         </mxCell>
       </root>
