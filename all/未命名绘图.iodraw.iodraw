@@ -48,8 +48,13 @@
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-14" value="getSum栈(独立空间)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="90" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZMv2l5J0o_ZnHg6SBESl-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-15" value="int returnRes = p1.getSum(20, 30);" style="text;whiteSpace=wrap;fontSize=7;verticalAlign=middle;align=left;" vertex="1" parent="1">
-          <mxGeometry x="70" y="60" width="220" height="40" as="geometry" />
+          <mxGeometry x="90" y="155" width="110" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
