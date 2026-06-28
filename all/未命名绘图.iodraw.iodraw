@@ -125,6 +125,9 @@
         <mxCell id="ZMv2l5J0o_ZnHg6SBESl-51" value="t1.test(4)" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="90" y="580" width="30" height="5" as="geometry" />
         </mxCell>
+        <mxCell id="ZMv2l5J0o_ZnHg6SBESl-52" value="Test栈" style="text;whiteSpace=wrap;verticalAlign=middle;align=left;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="90" y="485" width="50" height="5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
